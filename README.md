@@ -29,14 +29,14 @@ Soy un apasionado de la programación que cree que el código debe ser arte. Por
 ### 📊 Mis Estadísticas Maestras
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tecnoimpulsooficial-dot&show_icons=true&theme=tokyonight&border_color=00d4ff&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tecnoimpulsooficial-dot&layout=compact&theme=tokyonight&border_color=00d4ff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tecnoimpulsooficial-dot&show_icons=true&theme=dark&border_color=00d4ff&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tecnoimpulsooficial-dot&layout=compact&theme=dark&border_color=00d4ff" />
 </p>
 
 ### 🔥 Racha de Trabajo
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tecnoimpulsooficial-dot&theme=tokyonight&border=00d4ff&stroke=00d4ff&ring=00d4ff&fire=ff0000" />
+  <img src="https://streak-stats.demolab.com?user=tecnoimpulsooficial-dot&theme=dark&border=00d4ff&stroke=00d4ff&ring=00d4ff&fire=ff0000" />
 </p>
 
 ### 🤝 Conéctate conmigo
@@ -45,7 +45,6 @@ Soy un apasionado de la programación que cree que el código debe ser arte. Por
   <a href="https://facebook.com/alex.sato.281346" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://instagram.com/alexander6661724" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://wa.me/50557421177" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/tecnoimpulsooficial-dot" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---

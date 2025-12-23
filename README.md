@@ -85,17 +85,16 @@
 
 # 👋 Hola, soy Marvin Carcache
 
-```ansi
-[38;5;45m┌──────────────────────────────────────────────┐[0m
-[38;5;45m│[38;5;213m marvin@github[38;5;45m:[38;5;120m~[38;5;45m$[38;5;87m whoami[38;5;45m              │[0m
-[38;5;45m│[38;5;231m Marvin Carcache                          [38;5;45m│[0m
-[38;5;45m│                                              │[0m
-[38;5;45m│[38;5;213m marvin@github[38;5;45m:[38;5;120m~[38;5;45m$[38;5;87m roles --list[38;5;45m        │[0m
-[38;5;45m│[38;5;120m ▸ Software Developer                     [38;5;45m│[0m
-[38;5;45m│[38;5;120m ▸ Web Creator                            [38;5;45m│[0m
-[38;5;45m│[38;5;120m ▸ Freelancer                             [38;5;45m│[0m
-[38;5;45m│                                              │[0m
-[38;5;45m│[38;5;213m marvin@github[38;5;45m:[38;5;120m~[38;5;45m$[38;5;87m mission[38;5;45m            │[0m
-[38;5;228m│ "Transformando ideas en sistemas impecables"│[38;5;45m│[0m
-[38;5;45m└──────────────────────────────────────────────┘[0m
-```
+<svg width="100%" viewBox="0 0 900 360" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="900" height="360" rx="18" fill="#282a36"/>
+  <text x="40" y="60" font-family="monospace" font-size="22" fill="#bd93f9">marvin@github:~$ whoami</text>
+  <text x="40" y="95" font-family="monospace" font-size="22" fill="#f8f8f2">Marvin Carcache</text>
+
+<text x="40" y="145" font-family="monospace" font-size="22" fill="#bd93f9">marvin@github:~$ roles --list</text>
+<text x="40" y="180" font-family="monospace" font-size="22" fill="#50fa7b">▸ Software Developer</text>
+<text x="40" y="210" font-family="monospace" font-size="22" fill="#50fa7b">▸ Web Creator</text>
+<text x="40" y="240" font-family="monospace" font-size="22" fill="#50fa7b">▸ Freelancer</text>
+
+<text x="40" y="290" font-family="monospace" font-size="22" fill="#bd93f9">marvin@github:~$ mission</text>
+<text x="40" y="325" font-family="monospace" font-size="22" fill="#f1fa8c">"Transformando ideas en sistemas impecables"</text>
+</svg>

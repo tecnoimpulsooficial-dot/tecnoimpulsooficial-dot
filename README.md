@@ -78,36 +78,29 @@
   <a href="https://facebook.com/alex.sato.281346" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://instagram.com/alexander6661724" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://wa.me/50557421177" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/tecnoimpulsooficial-dot" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-<div align="center">
-  <table style="background-color: #282a36; border-collapse: collapse; border: 1px solid #44475a; border-radius: 10px;">
-    <tr style="background-color: #44475a;">
-      <td style="padding: 10px; border-radius: 10px 10px 0 0;">
-        <span style="color: #ff5555;">●</span> <span style="color: #f1fa8c;">●</span> <span style="color: #50fa7b;">●</span>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <kbd><b>marvin-carcache — bash</b></kbd>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 20px; font-family: monospace; font-size: 15px; line-height: 1.5;">
-        <font color="#50fa7b">tecnoimpulso@github</font>:<font color="#8be9fd">~</font>$ cat info.js<br>
-        <font color="#ff79c6">const</font> <font color="#50fa7b">developer</font> = <font color="#ff79c6">{</font><br>
-        &nbsp;&nbsp;name: <font color="#f1fa8c">"Marvin Carcache"</font>,<br>
-        &nbsp;&nbsp;roles: <font color="#ff79c6">[</font><font color="#f1fa8c">"Software Dev"</font>, <font color="#f1fa8c">"Web Creator"</font>, <font color="#f1fa8c">"Freelancer"</font><font color="#ff79c6 youth">]</font>,<br>
-        &nbsp;&nbsp;config: <font color="#f1fa8c">"Prettier Optimized "</font><br>
-        <font color="#ff79c6 youth">}</font>;<br><br>
-        <font color="#50fa7b">tecnoimpulso@github</font>:<font color="#8be9fd youth">~</font>$ echo <font color="#f1fa8c youth">"Transformando ideas en sistemas impecables."</font><br>
-        <font color="#f8f8f2">Transformando ideas en sistemas impecables. </font><br>
-        <font color="#50fa7b">tecnoimpulso@github</font>:<font color="#8be9fd">~</font>$ ▮
-      </td>
-    </tr>
-  </table>
-</div>
+### ⌨️ <span style="color: #00d4ff;">Terminal de Desarrollador</span>
 
-<p align="center">
-  <br>
-  <i>"El código limpio es la base de un gran proyecto."</i>
-</p>
+```javascript
+/**
+ * Developer Info - Marvin Carcache
+ * Status: Active & Freelancing
+ * Format: Prettier Optimized 💅
+ */
+
+const developer = {
+  name: "Marvin Carcache",
+  roles: ["Software Dev", "Web Creator", "Freelancer"],
+  mission: "Transformando ideas en sistemas impecables. 🎨",
+  tools: {
+    cleanCode: "Always Prettier",
+    mainFocus: "Efficiency & Design",
+  },
+};
+
+console.log(developer.mission);
+```

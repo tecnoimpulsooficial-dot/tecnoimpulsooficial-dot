@@ -38,7 +38,7 @@ Soy un apasionado de la programación que cree que el código debe ser arte. Por
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=tecnoimpulsooficial-dot&theme=tokyonight&hide_border=false&border=00d4ff&stroke=00d4ff&ring=00d4ff&fire=ff0000" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=tecnoimpulsooficial-dot&theme=tokyonight&hide_border=false&border=00d4ff&stroke=00d4ff&ring=00d4ff&fire=ff0000" alt="GitHub Streak" />
   </a>
 </p>
 

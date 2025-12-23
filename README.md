@@ -1,6 +1,8 @@
 # ¡Hola! Soy Marvin Carcache 👋
 
-![Banner](https://capsule-render.vercel.app/api?type=soft&color=00d4ff&height=200&section=header&text=Bienvenido%20a%20mi%20Perfil&fontSize=60&animation=fadeIn&fontColor=ffffff)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00d4ff&height=200&section=header&text=Bienvenido%20a%20mi%20Perfil&fontSize=60&animation=fadeIn&fontColor=ffffff" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tecnoimpulsooficial-dot&label=Perfil%20Visto&color=00d4ff&style=flat" alt="Vistas" />
@@ -33,13 +35,15 @@ Soy un apasionado de la programación que cree que el código debe ser arte. Por
 
 ### 📈 Actividad Reciente
 
-![Gráfico de actividad](https://github-readme-streak-stats.herokuapp.com/?user=tecnoimpulsooficial-dot&theme=tokyonight&hide_border=false&border=00d4ff)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tecnoimpulsooficial-dot&theme=tokyonight&hide_border=false&border=00d4ff" />
+</p>
 
 ### 🤝 Conéctate conmigo
 
 <p align="left">
-<a href="https://linkedin.com/in/tecnoimpulsooficial-dot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/tecnoimpulsooficial-dot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/tecnoimpulsooficial-dot" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://instagram.com/tecnoimpulsooficial-dot" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 ---

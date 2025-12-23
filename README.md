@@ -72,31 +72,44 @@
 
 ---
 
-## 🤝 <span style="color: #00d4ff;">Conéctate con el Desarrollador</span>
+## 🤝 <span style="color: #00d4ff;">Conéctate conmigo</span>
 
 <p align="left">
   <a href="https://facebook.com/alex.sato.281346" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://instagram.com/alexander6661724" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://wa.me/50557421177" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/tecnoimpulsooficial-dot" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
 <div align="center">
-  <table style="border: 2px solid #00d4ff; border-radius: 12px; background-color: #0d1117; font-family: 'Courier New', monospace; border-collapse: separate; border-spacing: 15px;">
-    <tr>
-      <td style="text-align: left; line-height: 1.5;">
-        <span style="color: #ff79c6;">const</span> <span style="color: #50fa7b;">developer</span> = <span style="color: #ff79c6;">{</span><br>
-        &nbsp;&nbsp;&nbsp;&nbsp;name<span style="color: #ff79c6;">:</span> <span style="color: #f1fa8c;">"Marvin Carcache"</span><span style="color: #ff79c6;">,</span><br>
-        &nbsp;&nbsp;&nbsp;&nbsp;roles<span style="color: #ff79c6;">:</span> <span style="color: #ff79c6;">[</span><span style="color: #f1fa8c;">"Software Dev"</span><span style="color: #ff79c6;">,</span> <span style="color: #f1fa8c;">"Web Creator"</span><span style="color: #ff79c6;">,</span> <span style="color: #f1fa8c;">"Freelancer"</span><span style="color: #ff79c6;">]</span><span style="color: #ff79c6;">,</span><br>
-        &nbsp;&nbsp;&nbsp;&nbsp;config<span style="color: #ff79c6;">:</span> <span style="color: #f1fa8c;">"Prettier Optimized 💅"</span><br>
-        <span style="color: #ff79c6;">}</span><span style="color: #ff79c6;">;</span>
+  <table style="border-collapse: collapse; width: 550px; border-radius: 10px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.5); font-family: 'Cascadia Code', 'Fira Code', monospace;">
+    <tr style="background-color: #343746; height: 35px;">
+      <td style="padding-left: 15px; width: 60px;">
+        <span style="color: #ff5555;">●</span> <span style="color: #f1fa8c;">●</span> <span style="color: #50fa7b;">●</span>
+      </td>
+      <td style="color: #bd93f9; text-align: center; font-size: 13px; padding-right: 75px;">
+        marvin-carcache — bash
       </td>
     </tr>
-  </table>
+    <tr style="background-color: #282a36;">
+      <td colspan="2" style="padding: 20px; line-height: 1.6; text-align: left;">
+        <span style="color: #50fa7b;">tecnoimpulso@github</span>:<span style="color: #8be9fd;">~</span>$ cat info.js<br>
+        <span style="color: #ff79c6;">const</span> <span style="color: #50fa7b;">developer</span> = <span style="color: #ff79c6;">{</span><br>
+        &nbsp;&nbsp;name: <span style="color: #f1fa8c;">"Marvin Carcache"</span>,<br>
+        &nbsp;&nbsp;roles: <span style="color: #ff79c6;">[</span><span style="color: #f1fa8c;">"Software Dev"</span>, <span style="color: #f1fa8c;">"Web Creator"</span>, <span style="color: #f1fa8c;">"Freelancer"</span><span style="color: #ff79c6;">]</span>,<br>
+        &nbsp;&nbsp;config: <span style="color: #f1fa8c;">"Prettier Optimized 💅"</span><br>
+        <span style="color: #ff79c6;">}</span>;<br><br>
+        <span style="color: #50fa7b;">tecnoimpulso@github</span>:<span style="color: #8be9fd;">~</span>$ echo <span style="color: #f1fa8c;">"Transformando ideas en sistemas impecables."</span><br>
+        <span style="color: #f8f8f2;">Transformando ideas en sistemas impecables. 🎨</span><br>
+        <span style="color: #50fa7b;">tecnoimpulso@github</span>:<span style="color: #8be9fd;">~</span>$ <span style="animation: blink 1s infinite;">|</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
-<p align="center" style="margin-top: 20px;">
-  <i>"Transformando ideas en sistemas impecables."</i> 🎨
+<p align="center">
+  <br>
+  <i>"El código limpio es la base de un gran proyecto."</i>
 </p>

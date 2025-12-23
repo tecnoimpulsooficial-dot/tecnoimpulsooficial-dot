@@ -1,4 +1,6 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy [Marvin Carcache] 👋
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Bienvenido%20a%20mi%20Perfil&fontSize=60)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=[TuUsuarioDeGitHub]&label=Perfil%20Visto&color=0e75b6&style=flat" alt="Vistas" />
@@ -7,9 +9,9 @@
 ### 💻 Sobre mí
 Soy un apasionado de la programación que cree que el código debe ser arte. Por eso, **siempre uso Prettier** para que cada línea de mis proyectos esté perfectamente formateada y limpia.
 
-- 🚀 Actualmente trabajando en: **[Nombre de tu proyecto actual]**
-- 🧠 Aprendiendo: **[Lo que estés estudiando ahora]**
-- ⚡ Un dato curioso: **[Algo sobre ti, ej: "Amante del café y el código"]**
+- 🔭 Actualmente trabajando en mis primeros proyectos con **GitHub Desktop**.
+- 💅 Mi código siempre está impecable porque **uso Prettier**.
+- 💬 Pregúntame sobre HTML, CSS o JavaScript.
 
 ### 🛠️ Tecnologías y Herramientas
 <p align="left">

@@ -19,7 +19,7 @@ Soy un apasionado de la programación que cree que el código debe ser arte. Por
 - 💅 **Estilo:** Código impecable gracias a mi configuración estricta de **Prettier**.
 - 💬 **Hablemos de:** HTML5, CSS3, JavaScript y flujos de trabajo profesionales.
 
-### 🛠️ Tecnologías y Herramientas (Estilo readme.so)
+### 🛠️ Tecnologías y Herramientas
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -27,24 +27,28 @@ Soy un apasionado de la programación que cree que el código debe ser arte. Por
   </a>
 </p>
 
-### 📊 GitHub Readme Stats (Tu Poder)
+### 📊 Mis Estadísticas Maestras
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tecnoimpulsooficial-dot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&border_color=00d4ff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tecnoimpulsooficial-dot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&border_color=00d4ff&show=reviews,discussions_started,discussions_answered,prs_merged" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tecnoimpulsooficial-dot&layout=compact&langs_count=7&theme=tokyonight&border_radius=10&border_color=00d4ff" />
 </p>
 
-### 🔥 Streak Stats (Tu Racha de Trabajo)
+### 🔥 Racha de Trabajo
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tecnoimpulsooficial-dot&theme=tokyonight&hide_border=false&border=00d4ff&stroke=00d4ff" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=tecnoimpulsooficial-dot&theme=tokyonight&hide_border=false&border=00d4ff&stroke=00d4ff&ring=00d4ff&fire=ff0000" alt="GitHub Streak" />
+  </a>
 </p>
 
 ### 🤝 Conéctate conmigo
 
 <p align="left">
+  <a href="https://facebook.com/alex.sato.281346" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/alexander6661724" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://wa.me/57421177" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://linkedin.com/in/tecnoimpulsooficial-dot" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/tecnoimpulsooficial-dot" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---

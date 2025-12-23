@@ -84,15 +84,17 @@
 ---
 
 <div align="center">
-  <div style="display: inline-block; text-align: left; border: 2px solid #00d4ff; border-radius: 10px; padding: 20px; background-color: #0d1117;">
-    <code style="color: #00d4ff; font-family: 'Courier New', monospace; font-size: 18px;">
-      <span style="color: #ff79c6;">{</span><br>
-      &nbsp;&nbsp;<span style="color: #50fa7b;">"developer"</span>: <span style="color: #f1fa8c;">"Marvin Carcache"</span>,<br>
-      &nbsp;&nbsp;<span style="color: #50fa7b;">"role"</span>: <span style="color: #f1fa8c;">"Software & Web Creator"</span>,<br>
-      &nbsp;&nbsp;<span style="color: #50fa7b;">"style"</span>: <span style="color: #f1fa8c;">"Prettier Optimized 💅"</span><br>
-      <span style="color: #ff79c6;">}</span>
-    </code>
-  </div>
+  <table style="border: 2px solid #00d4ff; border-radius: 12px; background-color: #0d1117; font-family: 'Courier New', monospace; border-collapse: separate; border-spacing: 15px;">
+    <tr>
+      <td style="text-align: left; line-height: 1.5;">
+        <span style="color: #ff79c6;">const</span> <span style="color: #50fa7b;">developer</span> = <span style="color: #ff79c6;">{</span><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;name<span style="color: #ff79c6;">:</span> <span style="color: #f1fa8c;">"Marvin Carcache"</span><span style="color: #ff79c6;">,</span><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;roles<span style="color: #ff79c6;">:</span> <span style="color: #ff79c6;">[</span><span style="color: #f1fa8c;">"Software Dev"</span><span style="color: #ff79c6;">,</span> <span style="color: #f1fa8c;">"Web Creator"</span><span style="color: #ff79c6;">,</span> <span style="color: #f1fa8c;">"Freelancer"</span><span style="color: #ff79c6;">]</span><span style="color: #ff79c6;">,</span><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;config<span style="color: #ff79c6;">:</span> <span style="color: #f1fa8c;">"Prettier Optimized 💅"</span><br>
+        <span style="color: #ff79c6;">}</span><span style="color: #ff79c6;">;</span>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <p align="center" style="margin-top: 20px;">

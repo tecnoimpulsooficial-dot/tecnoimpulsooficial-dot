@@ -1,7 +1,7 @@
 # ¡Hola! Soy Marvin Carcache 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=200&section=header&text=Bienvenido%20a%20mi%20Perfil&fontSize=60&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=250&section=header&text=Marvin%20Carcache&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=00d4ff&desc=Full%20Stack%20Developer%20in%20Progress&descAlignY=60&descAlign=50" />
 </p>
 
 <p align="center">
@@ -38,12 +38,12 @@
 
 ## 📊 <span style="color: #00d4ff;">Estado y Dominio Técnico</span>
 
-<table style="width: 100%; border-collapse: collapse; border: 1px solid #00d4ff;">
+<table style="width: 100%; border-collapse: collapse; border: 2px solid #00d4ff;">
   <thead>
-    <tr style="background-color: #00d4ff; color: #000;">
-      <th style="padding: 10px; border: 1px solid #00d4ff;">Sección</th>
-      <th style="padding: 10px; border: 1px solid #00d4ff;">Detalle</th>
-      <th style="padding: 10px; border: 1px solid #00d4ff;">Nivel / Estado</th>
+    <tr style="background-color: #00d4ff;">
+      <th style="padding: 10px; color: #000; border: 1px solid #00d4ff;">Sección</th>
+      <th style="padding: 10px; color: #000; border: 1px solid #00d4ff;">Detalle</th>
+      <th style="padding: 10px; color: #000; border: 1px solid #00d4ff;">Nivel / Estado</th>
     </tr>
   </thead>
   <tbody>
@@ -73,14 +73,17 @@
   <a href="https://facebook.com/alex.sato.281346" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://instagram.com/alexander6661724" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://wa.me/50557421177" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/tecnoimpulsooficial-dot" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<br />
+---
+
+<div align="center" style="border: 2px solid #00d4ff; border-radius: 5px; padding: 10px;">
+  <p style="color: #00d4ff; font-family: monospace; font-size: 20px; margin: 0;">
+    <b>{ "status": "Coding with Prettier 💅", "mindset": "Clean Code Only" }</b>
+  </p>
+</div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tecnoimpulsooficial-dot/tecnoimpulsooficial-dot/main/gradient.png" onerror="this.src='https://via.placeholder.com/800x50/0d1117/00d4ff?text=El+Codigo+Limpio+es+mi+Pincel'" style="width: 100%; border-radius: 5px;" />
-</p>
-
-<p align="center">
-  <i>"El código limpio es la base de un gran proyecto, y <b>Prettier</b> es mi pincel."</i> 🎨
+  <i>"El código limpio es la base de un gran proyecto."</i> 🎨
 </p>

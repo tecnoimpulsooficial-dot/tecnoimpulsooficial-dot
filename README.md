@@ -9,16 +9,24 @@
   <img src="https://img.shields.io/badge/Main-Prettier-F7B93E?style=flat&logo=prettier&logoColor=white" />
 </p>
 
-### 💻 Sobre mí
+---
 
-Soy un apasionado de la programación que cree que el código debe ser arte. Por eso, **siempre uso Prettier** para que cada línea de mis proyectos esté perfectamente formateada y limpia.
+## 💻 <span style="color: #00d4ff;">Sobre mí</span>
 
-- 🚀 **Nivel:** Desarrollador Full Stack en proceso.
-- 🔭 **Trabajando en:** Sistemas de gestión inteligente y portafolios de alto impacto.
-- 💅 **Estilo:** Código impecable gracias a mi configuración estricta de **Prettier**.
-- 💬 **Hablemos de:** HTML5, CSS3, JavaScript y flujos de trabajo profesionales.
+<div style="border: 1px solid #00d4ff; border-radius: 10px; padding: 15px; background-color: #0d1117;">
+  <p>Soy un apasionado de la programación que cree que el código debe ser arte. Por eso, <b>siempre uso Prettier</b> para que cada línea de mis proyectos esté perfectamente formateada y limpia.</p>
 
-### 🛠️ Tecnologías y Herramientas
+  <ul>
+    <li>🚀 <b>Nivel:</b> Desarrollador Full Stack en proceso.</li>
+    <li>🔭 <b>Trabajando en:</b> Sistemas de gestión inteligente y portafolios de alto impacto.</li>
+    <li>💅 <b>Estilo:</b> Código impecable gracias a mi configuración estricta de <b>Prettier</b>.</li>
+    <li>💬 <b>Hablemos de:</b> HTML5, CSS3, JavaScript y flujos de trabajo profesionales.</li>
+  </ul>
+</div>
+
+---
+
+## 🛠️ <span style="color: #00d4ff;">Tecnologías y Herramientas</span>
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -26,20 +34,40 @@ Soy un apasionado de la programación que cree que el código debe ser arte. Por
   </a>
 </p>
 
-### 📊 Mis Estadísticas Maestras
+---
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tecnoimpulsooficial-dot&show_icons=true&theme=dark&border_color=00d4ff&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tecnoimpulsooficial-dot&layout=compact&theme=dark&border_color=00d4ff" />
-</p>
+## 📊 <span style="color: #00d4ff;">Estado y Dominio Técnico</span>
 
-### 🔥 Racha de Trabajo
+<table style="width: 100%; border-collapse: collapse; border: 1px solid #00d4ff;">
+  <thead>
+    <tr style="background-color: #00d4ff; color: #000;">
+      <th style="padding: 10px; border: 1px solid #00d4ff;">Sección</th>
+      <th style="padding: 10px; border: 1px solid #00d4ff;">Detalle</th>
+      <th style="padding: 10px; border: 1px solid #00d4ff;">Nivel / Estado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #00d4ff;"><b>Frontend</b></td>
+      <td style="padding: 10px; border: 1px solid #00d4ff;">HTML, CSS, JS</td>
+      <td style="padding: 10px; border: 1px solid #00d4ff;">🔵🔵🔵🔵⚪ 85%</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #00d4ff;"><b>Backend</b></td>
+      <td style="padding: 10px; border: 1px solid #00d4ff;">Node.js, APIs</td>
+      <td style="padding: 10px; border: 1px solid #00d4ff;">🔵🔵⚪⚪⚪ 45%</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #00d4ff;"><b>Clean Code</b></td>
+      <td style="padding: 10px; border: 1px solid #00d4ff;">Prettier Config</td>
+      <td style="padding: 10px; border: 1px solid #00d4ff;">🔵🔵🔵🔵🔵 100%</td>
+    </tr>
+  </tbody>
+</table>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tecnoimpulsooficial-dot&theme=dark&border=00d4ff&stroke=00d4ff&ring=00d4ff&fire=ff0000" />
-</p>
+---
 
-### 🤝 Conéctate conmigo
+## 🤝 <span style="color: #00d4ff;">Conéctate conmigo</span>
 
 <p align="left">
   <a href="https://facebook.com/alex.sato.281346" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
@@ -47,8 +75,12 @@ Soy un apasionado de la programación que cree que el código debe ser arte. Por
   <a href="https://wa.me/50557421177" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
----
+<br />
 
 <p align="center">
-  <i>"El código limpio es la base de un gran proyecto, y Prettier es mi pincel."</i> 🎨
+  <img src="https://raw.githubusercontent.com/tecnoimpulsooficial-dot/tecnoimpulsooficial-dot/main/gradient.png" onerror="this.src='https://via.placeholder.com/800x50/0d1117/00d4ff?text=El+Codigo+Limpio+es+mi+Pincel'" style="width: 100%; border-radius: 5px;" />
+</p>
+
+<p align="center">
+  <i>"El código limpio es la base de un gran proyecto, y <b>Prettier</b> es mi pincel."</i> 🎨
 </p>

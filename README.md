@@ -1,108 +1,222 @@
-# <p align="center"><span style="color: #00d4ff;">¡Bienvenido a mi Espacio de Trabajo!</span> 👋</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=250&section=header&text=Marvin%20Carcache&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=00d4ff&desc=Software%20Developer%20|%20Web%20Creator%20|%20Freelancer&descAlignY=60&descAlign=50" />
-</p>
+```ascii
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ███╗   ███╗ █████╗ ██████╗ ██╗   ██╗██╗███╗   ██╗                        ║
+║   ████╗ ████║██╔══██╗██╔══██╗██║   ██║██║████╗  ██║                        ║
+║   ██╔████╔██║███████║██████╔╝██║   ██║██║██╔██╗ ██║                        ║
+║   ██║╚██╔╝██║██╔══██║██╔══██╗╚██╗ ██╔╝██║██║╚██╗██║                        ║
+║   ██║ ╚═╝ ██║██║  ██║██║  ██║ ╚████╔╝ ██║██║ ╚████║                        ║
+║   ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝                        ║
+║                                                                              ║
+║              [ Software Developer | Web Creator | Freelancer ]              ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tecnoimpulsooficial-dot&label=Perfil%20Visto&color=00d4ff&style=flat" />
-  <img src="https://img.shields.io/badge/Main-Prettier-F7B93E?style=flat&logo=prettier&logoColor=white" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=tecnoimpulsooficial-dot&label=visitors&color=bd93f9&style=flat-square)
+
+</div>
+
+```bash
+┌──(tecnoimpulso㉿github)-[~]
+└─$ cat welcome.txt
+```
+
+```diff
++ ¡Bienvenido a mi terminal de desarrollo!
++ Sistema inicializado correctamente...
++ Cargando perfil de desarrollador...
+```
 
 ---
 
-## 💻 <span style="color: #00d4ff;">Sobre mí</span>
+## 🖥️ ./whoami
 
-<div style="border: 2px solid #00d4ff; border-radius: 12px; padding: 20px; background-color: #0d1117;">
-  <p style="font-size: 1.1em;">
-    ¡Hola! Soy <b>Marvin Carcache</b>. Soy un apasionado <b>Desarrollador de Software Freelancer</b> dedicado a la creación de sistemas inteligentes y páginas web de alto impacto. 
-  </p>
-  <p>
-    Mi enfoque principal es el desarrollo de soluciones digitales a medida, asegurando siempre que el <b>código sea arte</b>. Por eso, mi flujo de trabajo es innegociable: <b>siempre uso Prettier</b> para garantizar un código impecable, limpio y profesional.
-  </p>
+```js
+┌─[marvin@tecnoimpulso]─[~]
+└──╼ $ cat developer.json
 
-  <ul style="list-style-type: '🚀 ';">
-    <li><b>Servicios:</b> Desarrollo de Software, Creación de Páginas Web y Consultoría Freelance.</li>
-    <li>🔭 <b>Enfoque Actual:</b> Sistemas de gestión robustos y arquitecturas web modernas.</li>
-    <li>💅 <b>Filosofía:</b> Código perfecto gracias a mi configuración estricta de <b>Prettier</b>.</li>
-    <li>💬 <b>Networking:</b> Disponible para proyectos Full Stack y colaboraciones creativas.</li>
-  </ul>
+{
+  "nombre": "Marvin Carcache",
+  "ubicacion": "Nicaragua 🇳🇮",
+  "roles": [
+    "Software Developer",
+    "Web Creator",
+    "Freelancer"
+  ],
+  "status": "Disponible para proyectos",
+  "motto": "Transformando ideas en sistemas impecables",
+  "obsesion": "Código limpio con Prettier 💅"
+}
+```
+
+---
+
+## 🛠️ ./tech_stack.sh
+
+```bash
+┌─[marvin@tecnoimpulso]─[~]
+└──╼ $ ls -la /skills/frontend/
+```
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+```bash
+┌─[marvin@tecnoimpulso]─[~]
+└──╼ $ ls -la /skills/backend/
+```
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+```bash
+┌─[marvin@tecnoimpulso]─[~]
+└──╼ $ ls -la /tools/
+```
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## 📊 ./stats.sh
+
+```bash
+┌─[marvin@tecnoimpulso]─[~]
+└──╼ $ cat performance_metrics.log
+```
+
+```python
+╔════════════════════════════════════════════════════════════╗
+║  SKILL LEVEL ANALYSIS                                      ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  [████████████████████████░░░░░] Frontend Development  85% ║
+║  [████████████████████████░░░░░] Responsive Design     85% ║
+║  [████████████████░░░░░░░░░░░░░] Software Systems      65% ║
+║  [████████████████░░░░░░░░░░░░░] Data Architecture     65% ║
+║  [█████████████████████████████] Code Quality         100% ║
+║  [█████████████████████████████] Prettier Standards   100% ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+```bash
+┌─[marvin@tecnoimpulso]─[~]
+└──╼ $ git log --graph --oneline
+```
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tecnoimpulsooficial-dot&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_color=bd93f9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tecnoimpulsooficial-dot&layout=compact&langs_count=8&theme=dracula&border_color=bd93f9"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tecnoimpulsooficial-dot&theme=dracula&border=bd93f9&ring=bd93f9&fire=ff6e96&currStreakLabel=bd93f9" />
+
 </div>
 
 ---
 
-## 🛠️ <span style="color: #00d4ff;">Tecnologías y Herramientas</span>
+## 🎯 ./services.sh
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github,git,prettier,nodejs,react,tailwind,bootstrap,figma,postman" />
-  </a>
-</p>
+```bash
+┌─[marvin@tecnoimpulso]─[~]
+└──╼ $ cat /opt/freelance_services.txt
+```
 
----
+```yaml
+disponible_para:
+  - desarrollo_web:
+      - "Aplicaciones web desde cero"
+      - "Páginas modernas y responsivas"
+      - "SPAs con React"
 
-## 📊 <span style="color: #00d4ff;">Estado y Dominio Técnico</span>
+  - software_custom:
+      - "Sistemas de gestión"
+      - "Arquitecturas escalables"
+      - "APIs REST"
 
-<table style="width: 100%; border-collapse: collapse; border: 2px solid #00d4ff;">
-  <thead>
-    <tr style="background-color: #00d4ff;">
-      <th style="padding: 12px; color: #000; border: 1px solid #00d4ff;">Categoría</th>
-      <th style="padding: 12px; color: #000; border: 1px solid #00d4ff;">Especialidad</th>
-      <th style="padding: 12px; color: #000; border: 1px solid #00d4ff;">Nivel de Maestría</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #00d4ff;"><b>Web Development</b></td>
-      <td style="padding: 10px; border: 1px solid #00d4ff;">Frontend & Responsive Design</td>
-      <td style="padding: 10px; border: 1px solid #00d4ff;">🔵🔵🔵🔵⚪ 85%</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #00d4ff;"><b>Software Systems</b></td>
-      <td style="padding: 10px; border: 1px solid #00d4ff;">Arquitectura y Lógica de Datos</td>
-      <td style="padding: 10px; border: 1px solid #00d4ff;">🔵🔵🔵⚪⚪ 65%</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #00d4ff;"><b>Code Quality</b></td>
-      <td style="padding: 10px; border: 1px solid #00d4ff;">Prettier & Clean Code Standards</td>
-      <td style="padding: 10px; border: 1px solid #00d4ff;">🔵🔵🔵🔵🔵 100%</td>
-    </tr>
-  </tbody>
-</table>
+  - consultoria:
+      - "Optimización de código"
+      - "Code reviews"
+      - "Arquitectura de software"
+
+estado: "ONLINE ✅"
+```
 
 ---
 
-## 🤝 <span style="color: #00d4ff;">Conéctate conmigo</span>
+## 🔗 ./contact.sh
 
-<p align="left">
-  <a href="https://facebook.com/alex.sato.281346" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/alexander6661724" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://wa.me/50557421177" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</p>
+```bash
+┌─[marvin@tecnoimpulso]─[~]
+└──╼ $ cat /etc/social_links
+```
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/alex.sato.281346)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alexander6661724)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50557421177)
+
+</div>
+
+---
+
+## 🏆 ./achievements.sh
+
+```bash
+┌─[marvin@tecnoimpulso]─[~]
+└──╼ $ python3 show_trophies.py
+```
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tecnoimpulsooficial-dot&theme=dracula&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15" />
+
+</div>
+
+---
+
+```bash
+┌─[marvin@tecnoimpulso]─[~]
+└──╼ $ echo "Gracias por visitar mi perfil"
+```
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║    💻 Transformando ideas en sistemas impecables 💻       ║
+║                                                           ║
+║    ⚡ Star mis repos si te gusta mi trabajo ⚡            ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+```bash
+marvin@tecnoimpulso:~$ █
+```
+
+</div>
 
 ---
 
 <div align="center">
-  <table style="background-color: #282a36; border-collapse: collapse; border: 1px solid #44475a; border-radius: 10px;">
-    <tr style="background-color: #44475a;">
-      <td style="padding: 10px; border-radius: 10px 10px 0 0;">
-        <span style="color: #ff5555;">●</span> <span style="color: #f1fa8c;">●</span> <span style="color: #50fa7b;">●</span>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <kbd><b>marvin-carcache — bash</b></kbd>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 20px; font-family: monospace; font-size: 15px; line-height: 1.5;">
-        <font color="#50fa7b">tecnoimpulso@github</font>:<font color="#8be9fd">~</font>$ cat info.js<br>
-        <font color="#ff79c6">const</font> <font color="#50fa7b">developer</font> = <font color="#ff79c6">{</font><br>
-        &nbsp;&nbsp;name: <font color="#f1fa8c">"Marvin Carcache"</font>,<br>
-        &nbsp;&nbsp;roles: <font color="#ff79c6">[</font><font color="#f1fa8c">"Software Dev"</font>, <font color="#f1fa8c">"Web Creator"</font>, <font color="#f1fa8c">"Freelancer"</font><font color="#ff79c6 youth">]</font>,<br>
-        &nbsp;&nbsp;config: <font color="#f1fa8c">"Prettier Optimized "</font><br>
-        <font color="#ff79c6 youth">}</font>;<br><br>
-        <font color="#50fa7b">tecnoimpulso@github</font>:<font color="#8be9fd youth">~</font>$ echo <font color="#f1fa8c youth">"Transformando ideas en sistemas impecables."</font><br>
-        <font color="#f8f8f2">Transformando ideas en sistemas impecables. </font><br>
-        <font color="#50fa7b">tecnoimpulso@github</font>:<font color="#8be9fd">~</font>$ ▮
-      </td>
-    </tr>
-  </table>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=100&section=footer" />
 </div>

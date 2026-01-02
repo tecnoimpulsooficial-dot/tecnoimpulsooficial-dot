@@ -1,23 +1,31 @@
 <div align="center">
 
-```ascii
-╔═══════════════════════════════════════════════════════════════════════╗
-║                                                                       ║
-║   ███╗   ███╗ █████╗ ██████╗ ██╗   ██╗██╗███╗   ██╗                 ║
-║   ████╗ ████║██╔══██╗██╔══██╗██║   ██║██║████╗  ██║                 ║
-║   ██╔████╔██║███████║██████╔╝██║   ██║██║██╔██╗ ██║                 ║
-║   ██║╚██╔╝██║██╔══██║██╔══██╗╚██╗ ██╔╝██║██║╚██╗██║                 ║
-║   ██║ ╚═╝ ██║██║  ██║██║  ██║ ╚████╔╝ ██║██║ ╚████║                 ║
-║   ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝                 ║
-║                                                                       ║
-║         [ Software Developer | Web Creator | Freelancer ]            ║
-║                                                                       ║
-╚═══════════════════════════════════════════════════════════════════════╝
-```
+<!-- Opción 1: Header con typing animation (RECOMENDADO) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=BD93F9&center=true&vCenter=true&width=940&lines=💜+Marvin+Carcache+%7C+Software+Developer+💜;⚡+Web+Creator+%7C+Freelancer+%7C+Nicaragua+⚡;💻+Transformando+ideas+en+código+impecable+💻" alt="Typing SVG" />
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tecnoimpulsooficial-dot&label=visitors&color=bd93f9&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/tecnoimpulsooficial-dot?color=bd93f9&style=flat-square&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/tecnoimpulsooficial-dot?color=bd93f9&style=flat-square&logo=github)
 
 </div>
+
+<!-- Opciones alternativas comentadas para que las pruebes:
+
+OPCIÓN 2: Wave header con gradiente Dracula
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Marvin%20Carcache&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Web%20Creator%20|%20Freelancer&descAlignY=55&descSize=18" />
+
+OPCIÓN 3: Slice con efecto neón
+<img src="https://capsule-render.vercel.app/api?type=slice&color=bd93f9&height=200&section=header&text=Marvin%20Carcache&fontSize=70&fontColor=282a36&animation=twinkling&fontAlignY=35&desc=💻%20Software%20Developer%20|%20Web%20Creator%20💻&descAlignY=60&descSize=20" />
+
+OPCIÓN 4: Venom con múltiples líneas animadas
+<img src="https://capsule-render.vercel.app/api?type=venom&color=bd93f9&height=250&section=header&text=Marvin%20Carcache&fontSize=60&fontColor=fff&animation=fadeIn&desc=Software%20Developer%20·%20Web%20Creator%20·%20Freelancer&descSize=20" />
+
+OPCIÓN 5: Cylinder 3D efecto
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:bd93f9,50:ff79c6,100:bd93f9&height=200&section=header&text=Marvin%20Carcache&fontSize=60&fontColor=fff&animation=blinking&desc=🚀%20Desarrollador%20Full%20Stack%20🚀&descSize=18" />
+
+-->
 
 ```console
 ┌──(tecnoimpulso@github)-[~]
@@ -252,29 +260,33 @@ prettier_enabled: true
 
 ```console
 ┌──(marvin@tecnoimpulso)-[~]
-└─$ cat signature.txt
+└─$ echo "Thanks for visiting! 💜"
 ```
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=800&lines=💜+Transformando+ideas+en+sistemas+impecables;⭐+Star+mis+repos+si+te+gusta+mi+trabajo;+El+código+es+arte.+Prettier+es+la+firma.;🚀+Disponible+para+proyectos+freelance" alt="Typing SVG" />
+
+<br/>
+
+### 📫 ¿Tienes un proyecto en mente?
+
+```diff
++ Estado: 🟢 Disponible para colaboraciones
++ Respuesta: ⚡ En menos de 24 horas
++ Prettier: ✨ Siempre activado
 ```
-╔═══════════════════════════════════════════════════╗
-║                                                   ║
-║   🚀 Transformando ideas en sistemas impecables   ║
-║                                                   ║
-║   ⭐ Star mis repos si te gusta mi trabajo      ║
-║                                                   ║
-║      "El código es arte. Prettier es la firma."  ║
-║                                                   ║
-╚═══════════════════════════════════════════════════╝
-```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=120&section=footer" />
 
 ```console
 ┌──(marvin@tecnoimpulso)-[~]
-└─$ logout
+└─$ exit
 ```
 
 ```diff
-+ Gracias por visitar mi perfil ✓
-+ Session closed successfully
+- Session closed
++ See you soon! 👋
 ```
 
 </div>

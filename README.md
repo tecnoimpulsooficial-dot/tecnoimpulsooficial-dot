@@ -11,192 +11,208 @@
 </div>
 
 ```console
-┌──(tecnoimpulso@github)-[~]
-└─$ cat welcome.txt
-```
-
-```diff
-+ ¡Bienvenido a mi terminal de desarrollo!
-+ Sistema inicializado correctamente...
-+ Cargando perfil de desarrollador... ✓
+$ cat welcome.txt
+> ¡Bienvenido a mi terminal de desarrollo!
+> Sistema inicializado correctamente...
+> Cargando perfil de desarrollador... ✓
 ```
 
 ---
 
-## 🖥️ ./whoami
+## 🖥️ `./whoami`
 
-```console
-┌──(marvin@tecnoimpulso)-[~]
-└─$ cat developer.json
-```
+```javascript
+// marvin@tecnoimpulso:~$ cat developer.json
 
-```json
-{
-  "nombre": "Marvin Carcache",
-  "ubicacion": "Nicaragua 🇳🇮",
-  "roles": ["Software Developer", "Web Creator", "Freelancer"],
-  "status": "Disponible para proyectos",
-  "motto": "Transformando ideas en sistemas impecables",
-  "obsesion": "Código limpio con Prettier"
-}
+const developer = {
+  nombre: "Marvin Carcache",
+  ubicacion: "Nicaragua 🇳🇮",
+  roles: ["Software Developer", "Web Creator", "Freelancer"],
+  status: "🟢 Disponible para proyectos",
+  motto: "Transformando ideas en sistemas impecables",
+  obsesion: "Código limpio con Prettier",
+};
+
+console.log(developer);
 ```
 
 ---
 
-## 🛠️ ./tech_stack.sh
+## 🛠️ `./tech_stack.sh`
 
-```console
-┌──(marvin@tecnoimpulso)-[~/skills]
-└─$ ls -la frontend/
+```bash
+# Frontend Technologies
+$ ls -la ~/skills/frontend/
 ```
 
-<p align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-```console
-┌──(marvin@tecnoimpulso)-[~/skills]
-└─$ ls -la backend/
+```bash
+# Backend & Version Control
+$ ls -la ~/skills/backend/
 ```
 
-<p align="left">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-```console
-┌──(marvin@tecnoimpulso)-[~/skills]
-└─$ ls -la tools/
+```bash
+# Development Tools
+$ ls -la ~/tools/
 ```
 
-<p align="left">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" alt="Prettier" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-</p>
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## 📊 ./performance_metrics.sh
+## 📊 `./github_stats.sh`
 
-```console
-┌──(marvin@tecnoimpulso)-[~]
-└─$ github-stats --show-detailed
+```python
+# marvin@tecnoimpulso:~$ python3 analyze_performance.py
+
+print("Generando estadísticas en tiempo real...")
+print("Conectando con GitHub API...")
+print("✓ Datos cargados exitosamente\n")
 ```
 
 <div align="center">
 
-### 📈 Análisis de Código en Tiempo Real
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tecnoimpulsooficial-dot&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_color=bd93f9&bg_color=282a36&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tecnoimpulsooficial-dot&layout=compact&langs_count=8&theme=dracula&border_color=bd93f9&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tecnoimpulsooficial-dot&theme=dracula" width="100%" alt="Profile Details" />
-
-</div>
-
-```console
-┌──(marvin@tecnoimpulso)-[~]
-└─$ analyze --commits --languages --productivity
-```
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tecnoimpulsooficial-dot&theme=dracula" width="48%" alt="Repos per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tecnoimpulsooficial-dot&theme=dracula" width="48%" alt="Most Commit Language" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tecnoimpulsooficial-dot&theme=dracula" width="48%" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tecnoimpulsooficial-dot&theme=dracula" width="48%" alt="Productive Time" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tecnoimpulsooficial-dot&theme=dracula&border=bd93f9&ring=bd93f9&fire=ff6e96&currStreakLabel=bd93f9&background=282a36" />
 
 </div>
 
 ```diff
-+ Real-time stats loaded ✓
-+ Data synchronized from GitHub API
-+ Code quality: Prettier enforced
++ GitHub Stats: ✓ Loaded
++ Contribution Streak: ✓ Active
++ Top Languages: ✓ Analyzed
 ```
 
 ---
 
-## 📈 ./github_stats.sh
+## 📈 `./detailed_metrics.py`
 
-```console
-┌──(marvin@tecnoimpulso)-[~]
-└─$ git log --graph --stat
+```python
+# marvin@tecnoimpulso:~$ python3 detailed_metrics.py --full-analysis
+
+"""
+Análisis detallado de actividad en GitHub
+Generando gráficos de rendimiento...
+"""
 ```
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tecnoimpulsooficial-dot&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_color=bd93f9&bg_color=282a36&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tecnoimpulsooficial-dot&layout=compact&langs_count=8&theme=dracula&border_color=bd93f9&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tecnoimpulsooficial-dot&theme=dracula" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tecnoimpulsooficial-dot&theme=dracula" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tecnoimpulsooficial-dot&theme=dracula" width="48%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tecnoimpulsooficial-dot&theme=dracula" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tecnoimpulsooficial-dot&theme=dracula" width="48%" />
 
 </div>
 
-```console
-┌──(marvin@tecnoimpulso)-[~]
-└─$ git streak --show
+```python
+print("✓ Análisis completado")
+print("✓ Métricas sincronizadas con GitHub API")
+print("✓ Code Quality: Prettier enforced 💅")
+```
+
+---
+
+## 🏆 `./achievements.sh`
+
+```bash
+# marvin@tecnoimpulso:~$ ./show_trophies.sh --theme=dracula
 ```
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tecnoimpulsooficial-dot&theme=dracula&border=bd93f9&ring=bd93f9&fire=ff6e96&currStreakLabel=bd93f9&background=282a36" alt="GitHub Streak" />
+<img src="https://github-profile-trophy.vercel.app/?username=tecnoimpulsooficial-dot&theme=dracula&no-frame=false&no-bg=false&column=7&margin-w=10&margin-h=10" />
 
 </div>
 
 ```diff
-+ Stats loaded successfully ✓
++ Trophies loaded successfully ✓
 ```
 
 ---
 
-## 🎯 ./freelance_services.sh
+## 💻 `./activity_graph.sh`
 
-```console
-┌──(marvin@tecnoimpulso)-[~/services]
-└─$ cat available_services.yaml
+```ruby
+# marvin@tecnoimpulso:~$ ruby activity_graph.rb
+
+puts "Generando gráfico de actividad..."
+puts "Analizando commits de los últimos 365 días..."
 ```
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tecnoimpulsooficial-dot&theme=dracula&bg_color=282a36&color=bd93f9&line=ff79c6&point=50fa7b&area=true&hide_border=false" />
+
+</div>
+
+```ruby
+puts "✓ Gráfico generado exitosamente"
+```
+
+---
+
+## 🎯 `./services.yaml`
 
 ```yaml
+# marvin@tecnoimpulso:~$ cat services.yaml
+
 servicios_disponibles:
   desarrollo_web:
-    - "✨ Aplicaciones web desde cero"
-    - "🎨 Páginas modernas y responsivas"
-    - "⚛️  SPAs con React"
+    - "✨ Aplicaciones web modernas desde cero"
+    - "🎨 Diseño responsivo y páginas landing"
+    - "⚛️  Single Page Applications con React"
+    - "🚀 Optimización de rendimiento web"
 
   software_custom:
-    - "🔧 Sistemas de gestión"
-    - "🏗️  Arquitecturas escalables"
-    - "🔌 APIs REST"
+    - "🔧 Sistemas de gestión empresarial"
+    - "🏗️  Arquitecturas escalables y robustas"
+    - "🔌 APIs RESTful y microservicios"
+    - "📊 Dashboards y herramientas internas"
 
-  consultoria:
-    - "💡 Optimización de código"
+  consultoria_tecnica:
+    - "💡 Optimización y refactorización de código"
     - "📝 Code reviews profesionales"
-    - "🏛️  Arquitectura de software"
+    - "🏛️  Diseño de arquitectura de software"
+    - "🎓 Mentoría en desarrollo web"
 
-estado_actual: "🟢 ONLINE - Disponible para proyectos"
+# Estado actual
+estado: "🟢 ONLINE"
+disponibilidad: "Abierto a nuevos proyectos"
 prettier_enabled: true
-```
-
-```console
-┌──(marvin@tecnoimpulso)-[~/services]
-└─$ echo "¿Tienes un proyecto? ¡Hablemos! 📩"
+respuesta_promedio: "< 24 horas"
 ```
 
 ---
 
-## 🔗 ./social_connect.sh
+## 🔗 `./connect.sh`
 
-```console
-┌──(marvin@tecnoimpulso)-[~]
-└─$ cat /etc/social_links.conf
+```bash
+# marvin@tecnoimpulso:~$ cat social_links.txt
 ```
 
 <div align="center">
-  
+
+### 📱 Conecta conmigo
+
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/alex.sato.281346)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alexander6661724)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50557421177)
@@ -204,80 +220,36 @@ prettier_enabled: true
 </div>
 
 ```diff
-+ Social links loaded ✓
-```
-
----
-
-## 🏆 ./achievements.sh
-
-```console
-┌──(marvin@tecnoimpulso)-[~]
-└─$ python3 show_github_trophies.py --theme=dracula
-```
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tecnoimpulsooficial-dot&theme=dracula&no-frame=false&no-bg=false&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-
-</div>
-
-```diff
-+ Trophies rendered ✓
-```
-
----
-
-## 💻 ./activity_graph.sh
-
-```console
-┌──(marvin@tecnoimpulso)-[~]
-└─$ git log --graph --all --decorate --oneline
-```
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tecnoimpulsooficial-dot&theme=dracula&bg_color=282a36&color=bd93f9&line=ff79c6&point=50fa7b&area=true&hide_border=false" alt="Activity Graph" />
-
-</div>
-
-```diff
-+ Activity graph generated ✓
++ Social networks ready ✓
++ Response time: < 24h ✓
 ```
 
 ---
 
 <div align="center">
 
-```console
-┌──(marvin@tecnoimpulso)-[~]
-└─$ echo "Thanks for visiting! 💜"
-```
+```javascript
+// marvin@tecnoimpulso:~$ node goodbye.js
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=800&lines=💜+Transformando+ideas+en+sistemas+impecables;⭐+Star+mis+repos+si+te+gusta+mi+trabajo;✨+El+código+es+arte.+Prettier+es+la+firma.;🚀+Disponible+para+proyectos+freelance" alt="Closing Message" />
-
-<br/>
-
-### 📫 ¿Tienes un proyecto en mente?
-
-```diff
-+ Estado: 🟢 Disponible para colaboraciones
-+ Respuesta: ⚡ En menos de 24 horas
-+ Prettier: 🚀 Siempre activado
+console.log("💜 Transformando ideas en sistemas impecables");
+console.log("⭐ Star mis repos si te gusta mi trabajo");
+console.log("💅 El código es arte. Prettier es la firma.");
+console.log("🚀 Disponible para proyectos freelance");
+console.log("\n✓ Gracias por visitar mi perfil");
 ```
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=120&section=footer" alt="Footer Wave" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=💜+Transformando+ideas+en+código;⭐+Código+limpio+con+Prettier;🚀+Disponible+para+colaboraciones" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=120&section=footer" />
 
 ```console
-┌──(marvin@tecnoimpulso)-[~]
-└─$ exit
-```
-
-```diff
-- Session closed
-+ See you soon! 👋
+$ exit
+> Session closed successfully
+> See you soon! 👋
 ```
 
 </div>
